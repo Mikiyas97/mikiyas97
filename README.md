@@ -65,7 +65,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 ![Mikiyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikiyas97&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyas97&layout=compact&theme=radical)
+
 
 
 
