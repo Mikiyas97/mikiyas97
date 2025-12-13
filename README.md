@@ -23,11 +23,8 @@
 </div>
 
 ###
+<h1 align="center">Hey 👋 I'm Mikiyas</h1>
 
-<h1 align="center">Hey👋 I'm Mikiyas</h1>
-
-
-###
 
 <h3 align="left">👨‍💻  About Me</h3>
 
@@ -35,13 +32,14 @@
 
 <p align="left">I'm Mikiyas from Ethiopia<br><br>🔭 I’m working as a Software Engineer, creating web apps and software solutions<br>📚 I'm currently learning advanced Python and frontend development<br>⚡ In my free time I build projects, explore new technologies, and contribute to open-source</p>
 
-###
+#
 
+
+<div align="left">
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -59,19 +57,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+
+  
+
+</div>
+
+#
+
+
+<h3 align="left">🔥 My Stats :</h3>
+
+<div align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mikiyas97&show_icons=true&theme=radical&hide_rank=true" height="165" alt="stats graph" /><br>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyas97&layout=compact&theme=radical" height="165" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiyas97&theme=radical" alt="streak stats"/>
+  
 </div>
 
 ###
 
-<img align="right" height="200" src="https://images.squarespace-cdn.com/content/v1/5f00e5547c2a630b8c2e551f/63a2b8fa-836f-4106-b489-d94d43a9bd6d/HF_07_2500x1400.gif"  />
+<img src="https://raw.githubusercontent.com/mikiyas97/mikiyas97/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-![Mikiyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikiyas97&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyas97&layout=compact&theme=radical)
 
 
 
