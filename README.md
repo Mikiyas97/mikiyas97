@@ -78,7 +78,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=mikiyas97&show_icons=true&theme=radical&hide_rank=true" height="165" alt="stats graph" /><br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyas97&layout=compact&theme=radical" height="165" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiyas97&theme=radical" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=mikiyas97&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   
 </div>
 
