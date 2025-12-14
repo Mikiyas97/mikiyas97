@@ -86,9 +86,7 @@
 
 <img src="https://raw.githubusercontent.com/mikiyas97/mikiyas97/output/snake.svg" alt="Snake animation" />
 
-
 ###
-
 
 
 
