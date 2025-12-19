@@ -78,7 +78,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=mikiyas97&show_icons=true&theme=radical&hide_rank=true" height="165" alt="stats graph" /><br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyas97&layout=compact&theme=radical" height="165" /><br>
-  <img src="https://streak-stats.demolab.com?user=mikiyas97&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mikiyas97&theme=transparent&hide_border=true" alt="Streak" />
   
 </div>
 
