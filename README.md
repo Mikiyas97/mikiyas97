@@ -78,7 +78,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=mikiyas97&show_icons=true&theme=radical&hide_rank=true" height="165" alt="stats graph" /><br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyas97&layout=compact&theme=radical" height="165" /><br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikiyas97-HERE&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiyas97&theme=transparent&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
